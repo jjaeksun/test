@@ -2,5 +2,4 @@ firsy edtion
 second edition
 third edition
 issue resloved
-hotfix my solution
 hotfix team's solution
